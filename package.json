@@ -1,0 +1,22 @@
+{
+  "name": "jestanotherrpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuckerLarrabee/JestAnotherRPG.git"
+  },
+  "author": "TCL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuckerLarrabee/JestAnotherRPG/issues"
+  },
+  "homepage": "https://github.com/TuckerLarrabee/JestAnotherRPG#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
