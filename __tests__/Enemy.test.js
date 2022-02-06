@@ -1,4 +1,3 @@
-const { test } = require('@jest/globals');
 const Enemy = require('../lib/Enemy');
 const Potion = require("../lib/Potion")
 
